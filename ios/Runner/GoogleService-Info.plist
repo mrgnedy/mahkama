@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>702135683322-jitklk43ai33ipus5t5g0e7nfeh8307e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.702135683322-jitklk43ai33ipus5t5g0e7nfeh8307e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmAsG0Ok_OYxeqPeRlW5cF64bjA5EKIYE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>702135683322</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.skinnyg.mahkama</string>
+	<key>PROJECT_ID</key>
+	<string>mahkama-21f91</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mahkama-21f91.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:702135683322:ios:722e8e02e0c6800c622143</string>
+	<key>DATABASE_URL</key>
+	<string>https://mahkama-21f91.firebaseio.com</string>
+</dict>
+</plist>
